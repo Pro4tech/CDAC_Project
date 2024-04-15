@@ -1,4 +1,4 @@
-## Requirement Set
+# Requirement Set
 
 1) For Guest
 -View Property
@@ -34,8 +34,8 @@
  -> Mail or Contact Number
  -> Chat Bot Functionalities (Optional)
  
- ##Database
- Tables:
+# Database
+## Tables:
  1) Sites - with logging
  2) User - with logging
  3) Photos
