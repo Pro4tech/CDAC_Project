@@ -1,6 +1,6 @@
 # Requirement Set
 
-1) For Guest
+1) For Guest (Done By Saurbh)
 -View Property
 -search Filters
  a)Category-vise -> eg:2BK,3BHK,Duplex,Bunglow
@@ -9,9 +9,9 @@
  	-> eg:Hinjewadi [Optional as need APIs Data]
  c)Price-range (Optional)
  
-2)For Registered User - Buyer
+2)For Registered User - **Buyer** (Done By Saurbh)
 - View Property
--search Filters
+- search Filters
  a)Category-vise -> eg:2BK,3BHK,Duplex,Bunglow
  b)location vise 
  	-> eg:Urban,Rural
@@ -21,14 +21,14 @@
 	->Proceed with Payment
 - Wishlist Property
 
-3)For Registered User - Owner
+3)For Registered User - Owner (Done By Pritesh)
 - Add/Modify Property (Add,Delete,Change Property Details ie Sold or Available)
 - List Properties Owned
 - View Interested Buyers
 - Owner has Option to show it's Contact Details with particular Linked Property 
 
 
-4)System Functionalities
+4)System Functionalities (Done By Gaurav)
 - Cart Functionalty
 - Connectivity Between Owner and Buyer
  -> Mail or Contact Number
