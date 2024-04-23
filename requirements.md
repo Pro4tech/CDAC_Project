@@ -1,24 +1,24 @@
 # Requirement Set
 
 1) For Guest (Done By Saurbh)
--View Property
--search Filters
- a)Category-vise -> eg:2BK,3BHK,Duplex,Bunglow
- b)location vise 
- 	-> eg:Urban,Rural
- 	-> eg:Hinjewadi [Optional as need APIs Data]
- c)Price-range (Optional)
- 
-2)For Registered User - **Buyer** (Done By Saurbh)
 - View Property
 - search Filters
- a)Category-vise -> eg:2BK,3BHK,Duplex,Bunglow
- b)location vise 
+  - Category-vise -> eg:2BK,3BHK,Duplex,Bunglow
+  - location vise 
  	-> eg:Urban,Rural
  	-> eg:Hinjewadi [Optional as need APIs Data]
- c)Price-range (Optional)
+  - Price-range (Optional)
+ 
+2)For Registered User - **Buyer** (Done By Chandan)
+- View Property
+- search Filters
+  - Category-vise -> eg:2BK,3BHK,Duplex,Bunglow
+  - location vise 
+ 	- eg:Urban,Rural
+ 	-  eg:Hinjewadi [Optional as need APIs Data]
+  - Price-range (Optional)
 - Purchase Property
-	->Proceed with Payment
+	- Proceed with Payment
 - Wishlist Property
 
 3)For Registered User - Owner (Done By Pritesh)
