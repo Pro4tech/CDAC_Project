@@ -1,7 +1,8 @@
 # Project Scope Documentation
 
-### Project Name: Online Property Selling [ *OPS* ] Site 
-### Group Lead :Pritesh Alias Vaibhav Naik
+Project Name: **Online Property Selling [ *OPS* ] Site**
+
+Group Lead :***Pritesh Alias Vaibhav Naik***
 
 ## Revision Date:25/04/2024
 
@@ -10,23 +11,24 @@
 
 *We Would be resolving the Above Problem by establishing a portal where the Owner can manage thier own properties and would be notified on potential Buyer Interaction on thier Property Lisitings*
 
-### Scope Description
-# In Scope
+# Scope Description
+## In Scope
 **During the Project Development ,we would be Looking into implementation of the Following Functionalities** :
 - Login Functionality as Registered or Guest Users
 - Add or Listing of Properties by Registered Owner on the Portal and thier management
 - Purchase of Listed Properties by Registered Owner acting as potential buyers
-- Filter Searching of Property based on Category eg. 2BHK,3BHK,Duplex or Bunglow
+- Filter Searching of Property based on proprty Type eg. 2BHK,3BHK,Duplex.
+- Filter Search of Property Based on Category eg. Apartmental Builiding,Gated Complex
 - Filiter Searching of Property by potential Buyers based on Price
-- Providing Cart Functionality
-- Providing Wishlist Functionality
+- Providing Cart Functionality to represent the Purchase Process undertaken By Buyer
+- Providing Wishlist Functionality to streamline Property Selection and represent Interest Shown by Buyers on particular Property Lisitings
 
-# Optional Functionality
+## Optional Functionality
 During the Project Development ,we could also look into implementation of the Following Functionalities: 
 - Implementation of Chat-Bot or Any Other Mode of Communication between Owners and potential Buyers apart from Mail or Contact Detail Sharing
 
 
-# Out of Scope
+## Out of Scope
 During the Project Development ,we would not be dealing with the of the Following Functionalities:
 - Implementation of Payment Gateway to Proceed with Payment
 - Implemetation of the Property Handling Beyond Hinjewadi Area 
