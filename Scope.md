@@ -73,6 +73,10 @@ During the Project Development ,we would not be initially dealing with the of th
 |:--:| 
 | *Purchaser Workflow Diagram* |
 
-![Seller Workflow Diagram](<WorkFlow_Diagram-Buyer-1.jpg>)| 
+![Seller Workflow Diagram](OwnerSideFlowChart-1.jpg)| 
 |:--:| 
-| *Seller  Workflow Diagram* |
+| *Seller Workflow Diagram* |
+
+![Entire Workflow Diagram](FlowChart-Seller-1.jpg)| 
+|:--:| 
+| *Entire Seller and Buyer Workflow Diagram* |
