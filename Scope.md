@@ -4,8 +4,6 @@ Project Name: **Online Property Selling [ *OPS* ] Site**
 
 Group Lead :***Pritesh Alias Vaibhav Naik***
 
-## Revision Date:29/04/2024
-
 ### Justification:
 *We are Developing The Proprty Portal Taking into Consideration that the End User is Either:* 
 - Registred Property Owner en-listing thier property for sale along with thier Contact Details
@@ -48,7 +46,7 @@ Group Lead :***Pritesh Alias Vaibhav Naik***
 - Providing Wishlist Functionality to streamline Property Selection and represent Interest Shown by Purchasers on particular Property Lisitings
 
 ## Optional Functionality
-During the Project Development ,we could also look into implementation of the Following Functionalities: - Implementation of Payment Gateway to Proceed with Payment
+During the Project Development ,we would also look into implementation of the Following Functionalities:
 - Implementation of Payment Gateway to Proceed with Payment
 
 - Implementation of Chat-Bot or Any Other Mode of Communication between Owners and potential Purchasers apart from Mail or Contact Detail Sharing
@@ -56,4 +54,29 @@ During the Project Development ,we could also look into implementation of the Fo
 
 ## Future Scope
 During the Project Development ,we would not be initially dealing with the of the Following Functionalities:
-- Implemetation of the Property Handling Beyond Hinjewadi Area 
+- Implemetation of the Property Handling Beyond Hinjewadi Area
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
+
+## Workflow Diagrams 
+![Purchaser Workflow Diagram](<WorkFlow_Diagram-Buyer-1.jpg>)|
+|:--:| 
+| *Purchaser Workflow Diagram* |
+
+![Seller Workflow Diagram](OwnerSideFlowChart-1.jpg)| 
+|:--:| 
+| *Seller Workflow Diagram* |
+
+![Entire Workflow Diagram](FlowChart-Seller-1.jpg)| 
+|:--:| 
+| *Entire Seller and Buyer Workflow Diagram* |
